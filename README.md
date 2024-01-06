@@ -1,8 +1,8 @@
 # Ahmed Ghazal
 **`Software Engineer & Web Developer`**
 <br>
-![Software Engineer & Web Developer](https://github.com/GhaaZaaal/GhaaZaaal/blob/main/hacker-silhouette-hack-anonymous2.jpg)
-
+<!-- ![Software Engineer & Web Developer](https://github.com/GhaaZaaal/GhaaZaaal/blob/main/hacker-silhouette-hack-anonymous2.jpg)
+-->
 
 I'm Ahmed from Egypt, I am passionate about evolving into the best version of a Software Engineer & Web Developer. With a foundational year of experience in ERP systems at Ascon Software Solutions, I am committed to furthering my expertise in the dynamic world of technology.
 
